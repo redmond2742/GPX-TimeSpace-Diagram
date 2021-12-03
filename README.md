@@ -11,6 +11,9 @@ Graph output shows a light gray line for the intersection locations and a Travel
 See example folder for running code and producing a time space diagram.
 
 
+![Time Space Diagram Example](https://github.com/swerty24/GPX-TimeSpace-Diagram/blob/master/Python/Example/Output/Red%20Hill%20Road-WB-PM-1.png?raw=true)
+
+
 # Limitations
 -Currently setup to plot one direction of travel at a time
 -significant manual variable input
