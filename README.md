@@ -20,6 +20,6 @@ See example folder for running code and producing a time space diagram.
 
 
 # How to Use
-Collect a GPX file you would like to plot using a [GPS app](https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger&hl=en_US&gl=US) (or use a (Strava GPX file)[https://support.strava.com/hc/en-us/articles/216918447-Downloading-a-GPX-route-from-another-athlete-s-activity-Premium-]).
+Collect a GPX file you would like to plot using a [GPS app](https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger&hl=en_US&gl=US) or use a [Strava GPX file](https://support.strava.com/hc/en-us/articles/216918447-Downloading-a-GPX-route-from-another-athlete-s-activity-Premium-).
 
 
